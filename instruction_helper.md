@@ -1,0 +1,1 @@
+create environment for every package inside our project folder - conda create -p venv python==3.8 -y
